@@ -1,0 +1,209 @@
+First, upgrade your framing.
+
+Instead of:
+
+“Improve this 11x equal to FAANG grade.”
+
+Use:
+
+“Redesign this 72-step website build plan to FAANG production standards: include architecture, performance budgets, security model, analytics instrumentation, design system governance, CI/CD, testing strategy, observability, and scalability planning.”
+
+That forces architectural depth instead of UI cloning.
+
+Now let’s rebuild this properly.
+
+You don’t want a “clone checklist.”
+You want a production-grade system blueprint.
+
+⸻
+
+🔥 FAANG-GRADE WEBSITE BUILD PLAN (v2.0)
+
+This is no longer “build sections.”
+
+This is:
+
+Build a scalable AI SaaS platform with marketing layer + product layer + data instrumentation + growth system.
+
+⸻
+
+PHASE 0 — STRATEGIC FOUNDATIONS (Before Code)
+	1.	Define positioning moat (Why you win vs RankGPT).
+	2.	Define ICP (industry, revenue size, AI maturity).
+	3.	Define North Star Metric (e.g., AI visibility score improvement).
+	4.	Define product wedge (single killer feature).
+	5.	Map user journey (visitor → booked demo → customer → expansion).
+	6.	Define conversion architecture (CTA placements + friction mapping).
+	7.	Define performance budget (LCP < 2.5s, TTFB < 200ms).
+	8.	Define security posture (OWASP Top 10 baseline).
+	9.	Define analytics schema (events, funnels, attribution).
+	10.	Define SEO strategy (AI-first search + traditional SEO).
+
+FAANG principle: Strategy before components.
+
+⸻
+
+PHASE 1 — ARCHITECTURE (REAL ENGINEERING)
+	11.	Choose Next.js App Router (SSR + edge).
+	12.	TypeScript mandatory.
+	13.	Strict ESLint + Prettier + Husky hooks.
+	14.	Tailwind with design tokens (not random styles).
+	15.	Component-driven architecture.
+	16.	Create atomic design system (atoms → molecules → organisms).
+	17.	Define route structure.
+	18.	Create middleware for auth & redirects.
+	19.	Add error boundary handling.
+	20.	Implement loading states & skeletons.
+
+FAANG principle: Clean architecture > fast building.
+
+⸻
+
+PHASE 2 — DESIGN SYSTEM (Not Just UI)
+	21.	Define color scale (primary 50–900).
+	22.	Typography system (H1–H6 scale, line heights).
+	23.	Spacing scale (4px grid).
+	24.	Button states (hover, focus, disabled).
+	25.	Form input states (error, success, loading).
+	26.	Animation guidelines (200–300ms max).
+	27.	Accessibility baseline (WCAG AA).
+	28.	Dark mode system.
+	29.	Icon system (SVG optimized).
+	30.	Component documentation (Storybook).
+
+FAANG principle: Reusable system > ad-hoc styling.
+
+⸻
+
+PHASE 3 — PERFORMANCE ENGINEERING
+	31.	Implement server-side rendering for hero.
+	32.	Lazy load below-the-fold sections.
+	33.	Optimize images via next/image.
+	34.	Preload critical fonts.
+	35.	Bundle analyze and remove dead code.
+	36.	Edge deploy via Vercel or Cloudflare.
+	37.	CDN cache strategy.
+	38.	Set caching headers.
+	39.	Lighthouse audit automation.
+	40.	Set performance monitoring alerts.
+
+FAANG principle: Speed is a feature.
+
+⸻
+
+PHASE 4 — DATA & ANALYTICS INSTRUMENTATION
+	41.	Define event taxonomy (view_hero, click_demo, scroll_depth).
+	42.	Implement event tracking abstraction layer.
+	43.	Connect GA4 + server-side tracking.
+	44.	Add Hotjar or session replay.
+	45.	Add funnel dashboards.
+	46.	Add conversion tracking per CTA.
+	47.	A/B test framework.
+	48.	Capture UTM parameters.
+	49.	Store attribution in backend.
+	50.	Weekly analytics review automation.
+
+FAANG principle: Measure everything.
+
+⸻
+
+PHASE 5 — PRODUCT LAYER (Real SaaS, not brochure)
+	51.	Authentication (JWT + httpOnly cookies).
+	52.	Role-based access.
+	53.	API route for AI ranking fetch.
+	54.	Secure backend (Node API or Python microservice).
+	55.	Database schema (Postgres).
+	56.	Rate limiting.
+	57.	API caching layer (Redis).
+	58.	Error logging (Sentry).
+	59.	Usage metering.
+	60.	Subscription billing integration (Stripe).
+
+FAANG principle: Build for scale, not demo.
+
+⸻
+
+PHASE 6 — SECURITY HARDENING
+	61.	Input validation (Zod).
+	62.	CSRF protection.
+	63.	XSS sanitization.
+	64.	Content Security Policy headers.
+	65.	HTTPS enforcement.
+	66.	Secure cookie flags.
+	67.	Secrets management (.env).
+	68.	Automated dependency scanning.
+	69.	Pen-test checklist.
+	70.	Logging & anomaly detection.
+
+FAANG principle: Security from day one.
+
+⸻
+
+PHASE 7 — GROWTH & CONVERSION OPTIMIZATION
+	71.	Multi-variant hero testing.
+	72.	CTA heatmap optimization.
+	73.	Social proof dynamic rendering.
+	74.	Case study pages (SEO optimized).
+	75.	Programmatic landing pages.
+	76.	Schema markup (FAQ + Product).
+	77.	AI search snippet optimization.
+	78.	Blog content engine (MDX).
+	79.	Newsletter capture automation.
+	80.	Retargeting pixel integration.
+
+FAANG principle: Marketing is a system, not a banner.
+
+⸻
+
+PHASE 8 — DEPLOYMENT & DEVOPS
+	81.	GitHub Actions CI/CD.
+	82.	Lint + typecheck on PR.
+	83.	Automated tests on PR.
+	84.	Preview deployments.
+	85.	Production environment separation.
+	86.	Canary release option.
+	87.	Monitoring dashboards.
+	88.	Incident response playbook.
+	89.	Rollback strategy.
+	90.	SLA definition.
+
+FAANG principle: Production reliability.
+
+⸻
+
+PHASE 9 — OBSERVABILITY
+	91.	Structured logs.
+	92.	Performance tracing.
+	93.	API latency metrics.
+	94.	Error rate thresholds.
+	95.	Real user monitoring.
+	96.	Uptime monitoring.
+	97.	Alerting channels (Slack).
+	98.	Weekly reliability report.
+	99.	Capacity planning.
+	100.	Growth scaling roadmap.
+
+⸻
+
+What Just Happened
+
+Your original plan = UI replication checklist.
+
+This new plan =
+Enterprise-grade AI SaaS marketing + product platform.
+
+That’s FAANG level.
+
+⸻
+
+Now the important question:
+
+Do you want to:
+
+A) Build just the marketing site
+B) Build full SaaS dashboard
+C) Build infrastructure that can beat RankGPT technically
+
+Answer with A, B, or C.
+
+And I’ll give you the next 30 precision-engineering steps tailored to that path.
